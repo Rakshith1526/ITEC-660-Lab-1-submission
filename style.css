@@ -1,0 +1,29 @@
+.container {
+  margin: auto;
+  text-align: center;
+  background-color: aliceblue;
+  padding:4% ;
+}
+
+h1{
+
+  font-size: 23px;
+}
+
+input{
+
+align-items: center;
+width: 30%;
+height: 36px;
+background-color:  #009999;
+border-radius: 10px;
+
+
+}
+
+input:hover{
+
+background-color: #248f24;
+
+
+}
